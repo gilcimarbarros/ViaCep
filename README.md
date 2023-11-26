@@ -2,5 +2,18 @@
  - App simples  de consulta de Cep consumindo a API ViaCep através da biblioteca Retrofit
  - Com as funções de consulta e de limpeza dos campos 
 
-![Captura de tela 2023-11-25 183609](https://github.com/gilcimarbarros/ViaCep/assets/11757157/83a395f9-d837-48a2-a570-69a9e736f640)______________ ![Captura de tela 2023-11-25 180739](https://github.com/gilcimarbarros/ViaCep/assets/11757157/18148b74-ee1f-4e2e-b76b-8b8178fb01db) 
+
+
+<div align="center">
+  <img src="https://github.com/gilcimarbarros/ViaCep/assets/11757157/d4bf6f81-811d-4457-81d0-71cf9e50fac5" width="400" />
+  <img src="https://github.com/gilcimarbarros/ViaCep/assets/11757157/84809e36-b5b0-4f05-b6dd-e875257eb1f8" width="400" />
+</div>
+
+<!-- Adicionar algum espaço -->
+<br>
+
+<div align="center">
+  <img src="https://github.com/gilcimarbarros/ViaCep/assets/11757157/a5b07386-02a5-4782-95c1-6fbcd1a77c79" width="400" />
+  <img src="https://github.com/gilcimarbarros/ViaCep/assets/11757157/ef0b3719-cbaf-4a8c-a1e8-3c978e6b6d07" width="400" />
+</div>
 
