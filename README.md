@@ -1,6 +1,13 @@
 # ViaCep
  - App simples  de consulta de Cep consumindo a API ViaCep através da biblioteca Retrofit
- - Com as funções de consulta e de limpeza dos campos 
+ - Com as funções de consulta e de limpeza dos campos
+ - Exibe mensagem "Informe o Cep"
+ - Exibe mensagem "Cep invalido"
+ 
+
+
+
+https://github.com/gilcimarbarros/ViaCep/assets/11757157/03ca5a33-18b2-4dfc-8e85-b78202ef1981
 
 
 
